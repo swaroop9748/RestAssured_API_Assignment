@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-01T13:25:51 IST" name="RestAssuredAPITesting" finished-at="2022-02-01T13:26:05 IST" duration-ms="13920">
+    <groups>
+    </groups>
+    <test started-at="2022-02-01T13:25:51 IST" name="RestAssuredAPITesting" finished-at="2022-02-01T13:26:05 IST" duration-ms="13920">
+      <class name="com.APITesting.testCases.TC001_ASSIGNMENT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:51 IST" name="setup" finished-at="2022-02-01T13:25:51 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getJSONResponse()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:51 IST" name="getJSONResponse" finished-at="2022-02-01T13:25:54 IST" duration-ms="2878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJSONResponse -->
+        <test-method signature="validateJSONObjectsExistance()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:54 IST" name="validateJSONObjectsExistance" finished-at="2022-02-01T13:25:54 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateJSONObjectsExistance -->
+        <test-method signature="validateLocalizedTextsObject()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:54 IST" name="validateLocalizedTextsObject" finished-at="2022-02-01T13:25:55 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLocalizedTextsObject -->
+        <test-method signature="validateShowTextObject()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:55 IST" name="validateShowTextObject" finished-at="2022-02-01T13:25:55 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateShowTextObject -->
+        <test-method signature="validateShowpriceObject()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:55 IST" name="validateShowpriceObject" finished-at="2022-02-01T13:25:55 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateShowpriceObject -->
+        <test-method signature="validateStatusCode()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:55 IST" name="validateStatusCode" finished-at="2022-02-01T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:0, instance:com.APITesting.testCases.TC001_ASSIGNMENT@209da20d]" started-at="2022-02-01T13:25:55 IST" name="validateStatusLine" finished-at="2022-02-01T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLine -->
+      </class> <!-- com.APITesting.testCases.TC001_ASSIGNMENT -->
+      <class name="com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:25:56 IST" name="setup" finished-at="2022-02-01T13:25:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:25:57 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:25:58 IST" duration-ms="885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[STATUSCODE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[webB2BGDMSTGExy0sVDlZMzNDdUyK]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:25:58 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:25:59 IST" duration-ms="1129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[STATUSCODE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[webB2BGDMSTGExy0sVDlZMzNDdUyZ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:25:59 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:00 IST" duration-ms="896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[STATUSCODE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:00 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:01 IST" duration-ms="845" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[REQUESTID]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:01 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:02 IST" duration-ms="818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[REQUESTID]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[webB2BGDMSTGExy0sVDlZMzNDdUyK]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:02 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:03 IST" duration-ms="985" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_006]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ERRORCODE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[webB2BGDMSTGExy0sVDlZMzNDdUyK]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:03 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:04 IST" duration-ms="833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_007]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ERRORCODE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:04 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:04 IST" duration-ms="830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_008]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ERRORMESSAGE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[webB2BGDMSTGExy0sVDlZMzNDdUyK]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+        <test-method signature="Validate_InvalidAPIKEY(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY@593aaf41]" started-at="2022-02-01T13:26:04 IST" name="Validate_InvalidAPIKEY" data-provider="APIDATA" finished-at="2022-02-01T13:26:05 IST" duration-ms="828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ERRORMESSAGE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[403]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[invalid api key]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_InvalidAPIKEY -->
+      </class> <!-- com.APITesting.testCases.TC003_VALIDATE_INVALID_APIKEY -->
+      <class name="com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT@54bff557]" started-at="2022-02-01T13:25:55 IST" name="setup" finished-at="2022-02-01T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="validateAssignmentDetails()[pri:0, instance:com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT@54bff557]" started-at="2022-02-01T13:25:55 IST" name="validateAssignmentDetails" finished-at="2022-02-01T13:25:56 IST" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAssignmentDetails -->
+        <test-method signature="validateProgramTypeObject()[pri:0, instance:com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT@54bff557]" started-at="2022-02-01T13:25:56 IST" name="validateProgramTypeObject" finished-at="2022-02-01T13:25:56 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProgramTypeObject -->
+        <test-method signature="validatePromotionIDObject()[pri:0, instance:com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT@54bff557]" started-at="2022-02-01T13:25:56 IST" name="validatePromotionIDObject" finished-at="2022-02-01T13:25:56 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePromotionIDObject -->
+      </class> <!-- com.APITesting.testCases.TC002_VALIDATE_ASSIGNMENT -->
+    </test> <!-- RestAssuredAPITesting -->
+  </suite> <!-- RestAssuredAPITesting -->
+</testng-results>

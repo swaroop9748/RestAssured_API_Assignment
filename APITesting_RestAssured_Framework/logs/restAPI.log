@@ -1,0 +1,79 @@
+2022-02-01 12:33:56 INFO  RestAssuredAPITesting:29 - *********************TC001 ASSIGNMENT DETAILS*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:67 - *********************JSON Objects Validation*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:127 - *********************Localized Texts Validation*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:104 - *********************Show Text Validation*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:82 - *********************Show Price Validation*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:47 - *********************Status Code Validation*************************************
+  2022-02-01 12:33:59 INFO  RestAssuredAPITesting:56 - *********************Status line Validation*************************************
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@9687f55: 0 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@29896529: 7 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@24043ec5: 17 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e33b52e: 0 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@535a518c: 3 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@67332b1e: 2 ms
+  2022-02-01 12:33:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@74b86971: 2 ms
+  2022-02-01 12:35:54 INFO  RestAssuredAPITesting:23 - *********************TC002 VALIDATE ASSIGNMENT DETAILS*************************************
+  2022-02-01 12:35:56 INFO  RestAssuredAPITesting:65 - *********************VALIDATE Program Type Object*************************************
+  2022-02-01 12:35:57 INFO  RestAssuredAPITesting:44 - *********************Validate Promotion ID*************************************
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4391a2d8: 0 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@64bebd55: 7 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5e593b08: 16 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3946075: 1 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3cc79c02: 2 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6518fdfd: 4 ms
+  2022-02-01 12:35:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@648c5fb3: 2 ms
+  2022-02-01 12:36:43 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:45 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:46 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:47 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:48 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:49 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:50 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:51 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:52 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f59da34: 0 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@74c7522c: 12 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@628ba266: 29 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1231a1be: 0 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ad6ae45: 5 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3dc46f24: 3 ms
+  2022-02-01 12:36:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ea75b05: 3 ms
+  2022-02-01 12:37:20 INFO  RestAssuredAPITesting:29 - *********************TC001 ASSIGNMENT DETAILS*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:67 - *********************JSON Objects Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:127 - *********************Localized Texts Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:104 - *********************Show Text Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:82 - *********************Show Price Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:47 - *********************Status Code Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:56 - *********************Status line Validation*************************************
+  2022-02-01 12:37:23 INFO  RestAssuredAPITesting:23 - *********************TC002 VALIDATE ASSIGNMENT DETAILS*************************************
+  2022-02-01 12:37:25 INFO  RestAssuredAPITesting:65 - *********************VALIDATE Program Type Object*************************************
+  2022-02-01 12:37:25 INFO  RestAssuredAPITesting:44 - *********************Validate Promotion ID*************************************
+  2022-02-01 12:37:26 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:26 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:28 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:28 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:29 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:30 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:32 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:32 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 12:37:33 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:25:51 INFO  RestAssuredAPITesting:29 - *********************TC001 ASSIGNMENT DETAILS*************************************
+  2022-02-01 13:25:54 INFO  RestAssuredAPITesting:67 - *********************JSON Objects Validation*************************************
+  2022-02-01 13:25:54 INFO  RestAssuredAPITesting:127 - *********************Localized Texts Validation*************************************
+  2022-02-01 13:25:55 INFO  RestAssuredAPITesting:104 - *********************Show Text Validation*************************************
+  2022-02-01 13:25:55 INFO  RestAssuredAPITesting:82 - *********************Show Price Validation*************************************
+  2022-02-01 13:25:55 INFO  RestAssuredAPITesting:47 - *********************Status Code Validation*************************************
+  2022-02-01 13:25:55 INFO  RestAssuredAPITesting:56 - *********************Status line Validation*************************************
+  2022-02-01 13:25:55 INFO  RestAssuredAPITesting:23 - *********************TC002 VALIDATE ASSIGNMENT DETAILS*************************************
+  2022-02-01 13:25:56 INFO  RestAssuredAPITesting:65 - *********************VALIDATE Program Type Object*************************************
+  2022-02-01 13:25:56 INFO  RestAssuredAPITesting:44 - *********************Validate Promotion ID*************************************
+  2022-02-01 13:25:57 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:25:58 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:25:59 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:00 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:01 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:02 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:03 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:04 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  2022-02-01 13:26:04 INFO  RestAssuredAPITesting:24 - *********************TC003_VALIDATE_INVALID_APIKEY*************************************
+  
